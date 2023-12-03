@@ -1,2 +1,2 @@
 # vcs-tutorial
-Learn git
+Learn git with newbiedev
